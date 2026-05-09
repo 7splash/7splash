@@ -18,4 +18,4 @@
 
 [![Discord](https://img.shields.io/badge/Discord-7ssplash-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/7ssplash)
 [![GitHub](https://img.shields.io/badge/GitHub-7splash-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/7splash)
-[![Instagram](https://img.shields.io/badge/Instagram-sswhg-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sswhg)
+[![Instagram](https://img.shields.io/badge/Instagram-7ssplash-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/7ssplash)

@@ -5,7 +5,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=next,tailwind,electron&theme=darkmode&includeNames=true)](https://github.com/7splash)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,mongodb,nodejs,apache,nginx,mysql&theme=darkmode&includeNames=true)](https://github.com/7splash)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,mongodb,nodejs,apache,nginx,mysql,sqlite,pterodactyl&theme=darkmode&includeNames=true)](https://github.com/7splash)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=windows,vscode,linux&theme=darkmode&includeNames=true)](https://github.com/7splash)
 

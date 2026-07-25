@@ -1,7 +1,7 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=7splash&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/7splash)
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,java,html,css,python&theme=darkmode&includeNames=true)](https://github.com/7splash)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,java,html,css,python,electron&theme=darkmode&includeNames=true)](https://github.com/7splash)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=next,tailwind&theme=darkmode&includeNames=true)](https://github.com/7splash)
 
